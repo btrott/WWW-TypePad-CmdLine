@@ -2,7 +2,7 @@ package WWW::TypePad::CmdLine;
 
 use strict;
 use 5.008_001;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Config::Tiny;
 use File::HomeDir;
