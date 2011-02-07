@@ -5,7 +5,7 @@ use 5.008_001;
 our $VERSION = '0.01';
 
 use Config::Tiny;
-use File::Homedir;
+use File::HomeDir;
 use File::Spec;
 use Getopt::Long qw( :config pass_through );
 use WWW::TypePad;
